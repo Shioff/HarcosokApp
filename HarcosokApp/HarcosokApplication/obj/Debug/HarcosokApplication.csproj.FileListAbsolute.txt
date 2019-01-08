@@ -1,0 +1,15 @@
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\bin\Debug\HarcosokApplication.exe.config
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\bin\Debug\HarcosokApplication.exe
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\bin\Debug\HarcosokApplication.pdb
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\bin\Debug\MySql.Data.dll
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\bin\Debug\MySql.Data.xml
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\obj\Debug\HarcosokApplication.csprojAssemblyReference.cache
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\obj\Debug\HarcosokApplication.Form1.resources
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\obj\Debug\HarcosokApplication.Properties.Resources.resources
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.GenerateResource.cache
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CoreCompileInputs.cache
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CopyComplete
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\obj\Debug\HarcosokApplication.exe
+C:\Users\Shion\Desktop\Suli\14S\C#\HarcosokApp-master\HarcosokApplication\obj\Debug\HarcosokApplication.pdb
